@@ -1,4 +1,4 @@
-import RecurringDatePicker from '../components/RecurringDatePicker';
+import RecurringDatePicker from '../components/RecurringDatePicker/index';
 
 export default function Home() {
   return (
